@@ -1,10 +1,10 @@
 package instagram
 
 import (
+	"downloader-insta-images/internal/files"
+	"downloader-insta-images/internal/model"
 	"encoding/json"
 	"fmt"
-	"instagram-downloader/internal/files"
-	"instagram-downloader/internal/model"
 	"io/ioutil"
 	"net/http"
 )

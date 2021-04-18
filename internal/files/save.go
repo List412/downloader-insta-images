@@ -1,7 +1,7 @@
 package files
 
 import (
-	"instagram-downloader/internal/network"
+	"downloader-insta-images/internal/network"
 	"io"
 	"os"
 	"path/filepath"

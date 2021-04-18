@@ -1,9 +1,9 @@
 package router
 
 import (
+	"downloader-insta-images/internal/instagram"
 	"encoding/json"
 	"github.com/gorilla/mux"
-	"instagram-downloader/internal/instagram"
 	"log"
 	"net/http"
 )

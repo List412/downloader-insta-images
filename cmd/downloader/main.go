@@ -1,7 +1,7 @@
 package main
 
 import (
-	"instagram-downloader/internal/router"
+	"downloader-insta-images/internal/router"
 )
 
 func main() {

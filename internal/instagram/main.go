@@ -1,8 +1,8 @@
 package instagram
 
 import (
-	"instagram-downloader/internal/model"
-	"instagram-downloader/internal/network"
+	"downloader-insta-images/internal/model"
+	"downloader-insta-images/internal/network"
 )
 
 func TakeImages(url string) {
